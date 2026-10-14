@@ -1,0 +1,43 @@
+# Privacy policy
+Version 2026-10-13. Draft for testing, subject to legal review.
+
+## Who we are
+Nyongo is operated by Gigayar. Contact: support@gigayar.com
+
+## What we collect
+- Your account: name, email address, phone number (optional) and password. Your password is stored in a form that nobody can read, not even us.
+- What you record: debts, payments, due dates, notes, the contacts you add (a name, and optionally their email or phone number), messages, reminder settings and their history, and requests exchanged with other users.
+- Technical data: a notification token for your phone, the language of the app, and basic server logs (such as IP address and time of requests) kept for security.
+
+We do not access your phone's address book or your location, and we never ask for bank or card details.
+
+## Why we use it
+- To run Nyongo: show your debts, share a debt with the other person when they accept it, and deliver reminders and notifications.
+- To keep the service secure and prevent abuse.
+- To answer you when you contact support.
+
+We do not sell your data and we do not use it for advertising.
+
+## Who can see what
+- Your private records (debts with your contacts) are visible only to you.
+- A shared debt, its payments and its chat are visible to you and to the other person on it.
+- People you add as contacts are not told about it, unless you choose to send them email reminders.
+
+## Services we rely on
+- Hetzner: hosts our servers, in the European Union.
+- Google Firebase: delivers notifications to your phone.
+- Resend: sends emails (reminders, password reset, email verification).
+
+Some of these providers may process data outside the European Union, with appropriate safeguards.
+
+## How long we keep your data
+As long as you have an account. When you delete your account, your account, your private records, your contacts and your messages are deleted. Debts you shared with other people stay in their records as their own private notes, because they are part of their history too.
+
+## Your rights
+You can access, correct and delete your data. Most of it can be changed directly in the app, and you can delete your account in Profile, Delete my account. For any other request, write to support@gigayar.com. You can also contact your data protection authority.
+
+## Children
+Nyongo is not intended for people under 18.
+
+## Changes to this policy
+If this policy changes, the app will ask you to read and accept the new version.

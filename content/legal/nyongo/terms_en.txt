@@ -1,0 +1,40 @@
+# Terms of use
+Version 2026-10-13. Draft for testing, subject to legal review.
+
+## What Nyongo is
+Nyongo is a personal tool to keep track of money lent and borrowed between people, and to send reminders about it. Nyongo is operated by Gigayar.
+
+## What Nyongo is not
+- Nyongo does not move, hold or transfer money. Payments happen outside the app.
+- Nyongo is not a lender, a bank, a payment service or a debt collection agency.
+- Nyongo does not verify what users record. A debt, payment or message in Nyongo is a statement made by a user, not proof that it is true.
+- Records in Nyongo are not legal documents.
+
+## Your account
+- You must be at least 18 years old to use Nyongo.
+- Keep your password private. You are responsible for what is done with your account.
+- The information you give about yourself must be truthful.
+
+## What you record
+- You are responsible for the debts, payments, contacts and messages you enter.
+- Only record debts that really exist. A debt with another Nyongo user is shared with them only if they accept it.
+- If someone declines a debt, respect their answer. You may keep it as a private note, but Nyongo will not send them reminders about it.
+
+## Reminders and messages
+- Use reminders and chat respectfully. Harassment, threats, insults and misleading content are not allowed.
+- We may suspend or delete accounts that abuse other people.
+
+## Disagreements between users
+Nyongo does not settle disagreements between users and is not responsible for whether a debt is repaid. Please resolve disagreements directly with the other person, or through the appropriate authorities.
+
+## Availability
+We do our best to keep Nyongo working, but we cannot guarantee that it will always be available or free of errors. Features may change over time.
+
+## Deleting your account
+You can delete your account at any time in Profile, Delete my account. The Privacy policy explains what happens to your data.
+
+## Changes to these terms
+If these terms change, the app will ask you to read and accept the new version.
+
+## Contact
+support@gigayar.com

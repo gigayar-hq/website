@@ -1,0 +1,43 @@
+# Politique de confidentialité
+Version du 13/10/2026. Version provisoire pour les tests, à faire valider juridiquement.
+
+## Qui sommes-nous
+Nyongo est exploité par Gigayar. Contact : support@gigayar.com
+
+## Ce que nous collectons
+- Votre compte : nom, adresse e-mail, numéro de téléphone (facultatif) et mot de passe. Votre mot de passe est conservé sous une forme que personne ne peut lire, pas même nous.
+- Ce que vous enregistrez : dettes, paiements, échéances, notes, les contacts que vous ajoutez (un nom, et éventuellement leur e-mail ou numéro), messages, réglages des rappels et leur historique, et demandes échangées avec d'autres utilisateurs.
+- Données techniques : un identifiant de notification pour votre téléphone, la langue de l'application, et des journaux serveur de base (comme l'adresse IP et l'heure des requêtes) conservés pour la sécurité.
+
+Nous n'accédons ni au carnet d'adresses de votre téléphone ni à votre position, et nous ne demandons jamais de coordonnées bancaires.
+
+## Pourquoi nous les utilisons
+- Pour faire fonctionner Nyongo : afficher vos dettes, partager une dette avec l'autre personne lorsqu'elle l'accepte, et envoyer les rappels et notifications.
+- Pour assurer la sécurité du service et prévenir les abus.
+- Pour vous répondre lorsque vous contactez l'assistance.
+
+Nous ne vendons pas vos données et ne les utilisons pas à des fins publicitaires.
+
+## Qui voit quoi
+- Vos notes privées (dettes avec vos contacts) ne sont visibles que par vous.
+- Une dette partagée, ses paiements et sa discussion sont visibles par vous et par l'autre personne concernée.
+- Les personnes que vous ajoutez comme contacts n'en sont pas informées, sauf si vous choisissez de leur envoyer des rappels par e-mail.
+
+## Services sur lesquels nous nous appuyons
+- Hetzner : héberge nos serveurs, dans l'Union européenne.
+- Google Firebase : envoie les notifications sur votre téléphone.
+- Resend : envoie les e-mails (rappels, réinitialisation du mot de passe, vérification de l'e-mail).
+
+Certains de ces prestataires peuvent traiter des données hors de l'Union européenne, avec des garanties appropriées.
+
+## Durée de conservation
+Tant que vous avez un compte. Lorsque vous supprimez votre compte, votre compte, vos notes privées, vos contacts et vos messages sont supprimés. Les dettes que vous avez partagées avec d'autres personnes restent chez elles sous forme de notes privées, car elles font aussi partie de leur historique.
+
+## Vos droits
+Vous pouvez accéder à vos données, les corriger et les supprimer. La plupart peuvent être modifiées directement dans l'application, et vous pouvez supprimer votre compte dans Profil, Supprimer mon compte. Pour toute autre demande, écrivez à support@gigayar.com. Vous pouvez aussi contacter votre autorité de protection des données.
+
+## Enfants
+Nyongo n'est pas destiné aux personnes de moins de 18 ans.
+
+## Modifications de cette politique
+Si cette politique change, l'application vous demandera de lire et d'accepter la nouvelle version.

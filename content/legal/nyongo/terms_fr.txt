@@ -1,0 +1,40 @@
+# Conditions d'utilisation
+Version du 13/10/2026. Version provisoire pour les tests, à faire valider juridiquement.
+
+## Ce qu'est Nyongo
+Nyongo est un outil personnel pour suivre l'argent prêté et emprunté entre personnes, et pour envoyer des rappels à ce sujet. Nyongo est exploité par Gigayar.
+
+## Ce que Nyongo n'est pas
+- Nyongo ne déplace pas, ne détient pas et ne transfère pas d'argent. Les paiements se font en dehors de l'application.
+- Nyongo n'est ni un prêteur, ni une banque, ni un service de paiement, ni une agence de recouvrement.
+- Nyongo ne vérifie pas ce que les utilisateurs enregistrent. Une dette, un paiement ou un message dans Nyongo est une déclaration faite par un utilisateur, pas une preuve que c'est vrai.
+- Les enregistrements dans Nyongo ne sont pas des documents juridiques.
+
+## Votre compte
+- Vous devez avoir au moins 18 ans pour utiliser Nyongo.
+- Gardez votre mot de passe secret. Vous êtes responsable de ce qui est fait avec votre compte.
+- Les informations que vous donnez sur vous-même doivent être exactes.
+
+## Ce que vous enregistrez
+- Vous êtes responsable des dettes, paiements, contacts et messages que vous saisissez.
+- N'enregistrez que des dettes qui existent réellement. Une dette avec un autre utilisateur de Nyongo n'est partagée avec lui que s'il l'accepte.
+- Si quelqu'un refuse une dette, respectez sa réponse. Vous pouvez la garder comme note privée, mais Nyongo ne lui enverra pas de rappels à ce sujet.
+
+## Rappels et messages
+- Utilisez les rappels et la discussion avec respect. Le harcèlement, les menaces, les insultes et les contenus trompeurs sont interdits.
+- Nous pouvons suspendre ou supprimer les comptes qui abusent d'autres personnes.
+
+## Désaccords entre utilisateurs
+Nyongo ne règle pas les désaccords entre utilisateurs et n'est pas responsable du remboursement d'une dette. Réglez les désaccords directement avec l'autre personne, ou auprès des autorités compétentes.
+
+## Disponibilité
+Nous faisons de notre mieux pour que Nyongo fonctionne, mais nous ne pouvons pas garantir qu'il sera toujours disponible ou sans erreur. Les fonctionnalités peuvent évoluer.
+
+## Supprimer votre compte
+Vous pouvez supprimer votre compte à tout moment dans Profil, Supprimer mon compte. La Politique de confidentialité explique ce qu'il advient de vos données.
+
+## Modifications de ces conditions
+Si ces conditions changent, l'application vous demandera de lire et d'accepter la nouvelle version.
+
+## Contact
+support@gigayar.com
