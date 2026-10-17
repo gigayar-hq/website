@@ -159,6 +159,22 @@ T = {
         "private notes, because they are part of their history too. They keep your name as it appeared on the "
         "debt, are no longer linked to any account, and no reminders are sent about them.",
         "d_more": "Read the <a href=\"{privacy}\">Privacy policy</a> for more about how Nyongo handles your data.",
+        # Invitation landing page
+        "i_title": "You're invited to Nyongo",
+        "i_desc": "Someone you know uses Nyongo to keep track of the money you lend each other.",
+        "i_intro": "Someone you know uses Nyongo to keep track of the money you lend each other, and invited you. "
+        "Nyongo doesn't move any money: it only keeps a shared record you both confirm.",
+        "i_code": "Your invitation code",
+        "i_steps_h": "How to join",
+        "i_steps": [
+            "Install Nyongo on your phone.",
+            "Create your account.",
+            "Open <strong>Profile → Invitation code</strong> and enter the code above.",
+        ],
+        "i_after": "Your accounts are then linked. What they recorded reaches you as requests: you accept them, "
+        "propose a change, or decline. Nothing is added to your account without your agreement.",
+        "i_store": "Nyongo is coming soon to Google Play.",
+        "i_more": "Learn more about Nyongo",
         # 404
         "nf_title": "Page not found",
         "nf_text": "This page doesn't exist or has moved.",
@@ -277,6 +293,22 @@ T = {
         "leur sujet.",
         "d_more": "Consultez la <a href=\"{privacy}\">Politique de confidentialité</a> pour en savoir plus sur la "
         "façon dont Nyongo traite vos données.",
+        # Page d'arrivée d'une invitation
+        "i_title": "Vous êtes invité(e) sur Nyongo",
+        "i_desc": "Quelqu'un que vous connaissez utilise Nyongo pour suivre l'argent que vous vous prêtez.",
+        "i_intro": "Quelqu'un que vous connaissez utilise Nyongo pour suivre l'argent que vous vous prêtez, et vous "
+        "a invité(e). Nyongo ne transfère pas d'argent : il garde seulement une trace commune que vous confirmez tous les deux.",
+        "i_code": "Votre code d'invitation",
+        "i_steps_h": "Comment rejoindre",
+        "i_steps": [
+            "Installez Nyongo sur votre téléphone.",
+            "Créez votre compte.",
+            "Ouvrez <strong>Profil → Code d'invitation</strong> et entrez le code ci-dessus.",
+        ],
+        "i_after": "Vos comptes sont alors reliés. Ce que cette personne a noté vous arrive sous forme de demandes : "
+        "vous les acceptez, proposez une modification ou les refusez. Rien n'est ajouté à votre compte sans votre accord.",
+        "i_store": "Nyongo arrive bientôt sur Google Play.",
+        "i_more": "En savoir plus sur Nyongo",
         # 404
         "nf_title": "Page introuvable",
         "nf_text": "Cette page n'existe pas ou a été déplacée.",
@@ -569,6 +601,34 @@ def delete_account(ctx):
     return layout(ctx, t["d_title"], t["d_desc"], body)
 
 
+def invite(ctx):
+    """Where an invitation link lands (/nyongo/invite/?c=CODE). The code is read from
+    the address by a tiny script; nothing is sent anywhere."""
+    t = T[ctx.lang]
+    steps = "".join(f"<li>{s}</li>" for s in t["i_steps"])
+    body = f"""<article class="doc">{crumb(ctx)}
+<h1>{t["i_title"]}</h1>
+<p class="meta">{t["i_intro"]}</p>
+<div id="invite-code-box" hidden>
+<h2>{t["i_code"]}</h2>
+<p style="font-size:32px;font-weight:800;letter-spacing:6px;font-family:ui-monospace,Menlo,monospace" id="invite-code"></p>
+</div>
+<h2>{t["i_steps_h"]}</h2>
+<ol>{steps}</ol>
+<p>{t["i_after"]}</p>
+<p class="note">{t["i_store"]} <a href="{ctx.link("nyongo")}">{t["i_more"]}</a></p>
+</article>
+<script>
+(function () {{
+  var code = (new URLSearchParams(location.search).get("c") || "").toUpperCase().replace(/[^A-Z0-9]/g, "").slice(0, 8);
+  if (!code) return;
+  document.getElementById("invite-code").textContent = code;
+  document.getElementById("invite-code-box").hidden = false;
+}})();
+</script>"""
+    return layout(ctx, t["i_title"], t["i_desc"], body)
+
+
 def not_found():
     # Served by GitHub Pages at any missing URL, so links must be absolute.
     ctx = Ctx("en", "", absolute=True)
@@ -591,6 +651,7 @@ PAGES = {
     "nyongo/privacy": lambda ctx: legal(ctx, "privacy"),
     "nyongo/terms": lambda ctx: legal(ctx, "terms"),
     "nyongo/delete-account": delete_account,
+    "nyongo/invite": invite,
 }
 
 FAVICON = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">

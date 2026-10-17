@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>You're invited to Nyongo</title>
+<meta name="description" content="Someone you know uses Nyongo to keep track of the money you lend each other.">
+<link rel="canonical" href="https://gigayar.com/nyongo/invite/">
+<link rel="alternate" hreflang="en" href="https://gigayar.com/nyongo/invite/"><link rel="alternate" hreflang="fr" href="https://gigayar.com/fr/nyongo/invite/"><link rel="alternate" hreflang="x-default" href="https://gigayar.com/nyongo/invite/">
+<meta property="og:title" content="You're invited to Nyongo">
+<meta property="og:description" content="Someone you know uses Nyongo to keep track of the money you lend each other.">
+<meta property="og:url" content="https://gigayar.com/nyongo/invite/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Gigayar">
+<meta name="theme-color" content="#1A1A2E">
+<link rel="icon" href="../../favicon.svg" type="image/svg+xml">
+<link rel="preload" href="../../assets/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="../../assets/style.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="../../">gigayar<span>.</span></a>
+    <nav class="site-nav" aria-label="Main">
+      <a href="../../nyongo/">Nyongo</a>
+      <a href="../../#contact">Contact</a>
+      <a class="lang" href="../../fr/nyongo/invite/" hreflang="fr" lang="fr"
+         aria-label="Version française">FR</a>
+    </nav>
+  </div>
+</header>
+<main id="main">
+<article class="doc"><p class="crumb"><a href="../../nyongo/">← Nyongo</a></p>
+<h1>You're invited to Nyongo</h1>
+<p class="meta">Someone you know uses Nyongo to keep track of the money you lend each other, and invited you. Nyongo doesn't move any money: it only keeps a shared record you both confirm.</p>
+<div id="invite-code-box" hidden>
+<h2>Your invitation code</h2>
+<p style="font-size:32px;font-weight:800;letter-spacing:6px;font-family:ui-monospace,Menlo,monospace" id="invite-code"></p>
+</div>
+<h2>How to join</h2>
+<ol><li>Install Nyongo on your phone.</li><li>Create your account.</li><li>Open <strong>Profile → Invitation code</strong> and enter the code above.</li></ol>
+<p>Your accounts are then linked. What they recorded reaches you as requests: you accept them, propose a change, or decline. Nothing is added to your account without your agreement.</p>
+<p class="note">Nyongo is coming soon to Google Play. <a href="../../nyongo/">Learn more about Nyongo</a></p>
+</article>
+<script>
+(function () {
+  var code = (new URLSearchParams(location.search).get("c") || "").toUpperCase().replace(/[^A-Z0-9]/g, "").slice(0, 8);
+  if (!code) return;
+  document.getElementById("invite-code").textContent = code;
+  document.getElementById("invite-code-box").hidden = false;
+})();
+</script>
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <div>© 2026 Gigayar · Technology for everyday life.</div>
+    <nav aria-label="Footer">
+      <a href="../../nyongo/">Nyongo</a>
+      <a href="../../nyongo/privacy/">Privacy policy</a>
+      <a href="../../nyongo/terms/">Terms of use</a>
+      <a href="mailto:support@gigayar.com">support@gigayar.com</a>
+    </nav>
+  </div>
+</footer>
+</body>
+</html>
