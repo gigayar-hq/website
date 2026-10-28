@@ -1,5 +1,5 @@
 # Politique de confidentialité
-Version du 13/10/2026. Version provisoire pour les tests, à faire valider juridiquement.
+Version du 28/10/2026. Version provisoire pour les tests, à faire valider juridiquement.
 
 ## Qui sommes-nous
 Nyongo est exploité par Gigayar. Contact : support@gigayar.com
@@ -7,6 +7,10 @@ Nyongo est exploité par Gigayar. Contact : support@gigayar.com
 ## Ce que nous collectons
 - Votre compte : nom, adresse e-mail, numéro de téléphone (facultatif) et mot de passe. Votre mot de passe est conservé sous une forme que personne ne peut lire, pas même nous.
 - Ce que vous enregistrez : dettes, paiements, échéances, notes, les contacts que vous ajoutez (un nom, et éventuellement leur e-mail ou numéro), messages, réglages des rappels et leur historique, et demandes échangées avec d'autres utilisateurs.
+- Vos dons : l'argent que vous notez avoir donné ou reçu (montant, devise, date, personne, occasion, note), et votre limite de dons si vous en fixez une.
+- Les cotisations et tontines que vous organisez ou rejoignez : leurs réglages, leurs membres, ce que chacun dit avoir donné ou versé (avec le moyen : espèces ou mobile money), les confirmations de l'organisateur, les tours et les cagnottes remises, les départs et leur raison si vous en donnez une, et les messages de leur discussion.
+- Vos signalements et les personnes que vous bloquez.
+- Le moment où vous avez utilisé l'application pour la dernière fois, qui sert aux accusés de lecture, à l'indication « en ligne » et à savoir si un rappel vous est parvenu.
 - Données techniques : un identifiant de notification pour votre téléphone, la langue de l'application, et des journaux serveur de base (comme l'adresse IP et l'heure des requêtes) conservés pour la sécurité.
 
 Nous n'accédons ni au carnet d'adresses de votre téléphone ni à votre position, et nous ne demandons jamais de coordonnées bancaires.
@@ -21,7 +25,13 @@ Nous ne vendons pas vos données et ne les utilisons pas à des fins publicitair
 ## Qui voit quoi
 - Vos notes privées (dettes avec vos contacts) ne sont visibles que par vous.
 - Une dette partagée, ses paiements et sa discussion sont visibles par vous et par l'autre personne concernée.
-- Les personnes que vous ajoutez comme contacts n'en sont pas informées, sauf si vous choisissez de leur envoyer des rappels par e-mail.
+- Les personnes que vous ajoutez comme contacts n'en sont pas informées, sauf si vous choisissez de leur envoyer des rappels par e-mail ou une invitation (c'est vous qui l'envoyez, depuis votre téléphone).
+- Vos dons ne sont visibles que par vous. La personne n'est jamais prévenue.
+- Dans une cotisation, les membres voient ce que l'organisateur a choisi : le total seulement, qui a donné, ou qui a donné combien. Cela vaut aussi pour un don que vous avez déclaré et que l'organisateur n'a pas encore confirmé. L'organisateur voit tout. Dans une tontine, chaque membre voit qui a versé à chaque tour.
+- La discussion d'un groupe est visible par ses membres. La raison pour laquelle quelqu'un quitte une tontine n'est vue que par l'organisateur et par cette personne.
+- Les personnes avec qui vous avez une dette, un contact ou un groupe peuvent voir si vous êtes en ligne ou quand vous l'avez été, sauf si vous désactivez « Montrer quand je suis en ligne » dans Profil (vous ne voyez alors plus non plus celle des autres).
+- Votre historique de paiements n'est montré aux autres que si vous choisissez de le partager, et seulement sous forme de chiffres, jamais de montants ni de noms.
+- Quand vous signalez quelqu'un, votre signalement (et le message signalé, s'il y en a un) est envoyé par e-mail à notre équipe d'assistance, qui l'examine.
 
 ## Services sur lesquels nous nous appuyons
 - Hetzner : héberge nos serveurs, dans l'Union européenne.
@@ -31,7 +41,9 @@ Nous ne vendons pas vos données et ne les utilisons pas à des fins publicitair
 Certains de ces prestataires peuvent traiter des données hors de l'Union européenne, avec des garanties appropriées.
 
 ## Durée de conservation
-Tant que vous avez un compte. Lorsque vous supprimez votre compte, votre compte, vos notes privées, vos contacts et vos messages sont supprimés. Les dettes que vous avez partagées avec d'autres personnes restent chez elles sous forme de notes privées, car elles font aussi partie de leur historique.
+Tant que vous avez un compte. Lorsque vous supprimez votre compte, votre compte, vos notes privées, vos contacts, vos dons et vos messages (y compris dans les discussions de groupe) sont supprimés. Les dettes que vous avez partagées avec d'autres personnes restent chez elles sous forme de notes privées, car elles font aussi partie de leur historique.
+
+Dans les cotisations et tontines, ce que vous avez donné ou versé reste dans l'historique du groupe, sous votre nom, car il fait partie des comptes des autres membres. Un groupe que vous organisez passe à un autre membre.
 
 ## Vos droits
 Vous pouvez accéder à vos données, les corriger et les supprimer. La plupart peuvent être modifiées directement dans l'application, et vous pouvez supprimer votre compte dans Profil, Supprimer mon compte. Pour toute autre demande, écrivez à support@gigayar.com. Vous pouvez aussi contacter votre autorité de protection des données.

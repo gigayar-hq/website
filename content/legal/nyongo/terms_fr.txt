@@ -1,5 +1,5 @@
 # Conditions d'utilisation
-Version du 13/10/2026. Version provisoire pour les tests, à faire valider juridiquement.
+Version du 28/10/2026. Version provisoire pour les tests, à faire valider juridiquement.
 
 ## Ce qu'est Nyongo
 Nyongo est un outil personnel pour suivre l'argent prêté et emprunté entre personnes, et pour envoyer des rappels à ce sujet. Nyongo est exploité par Gigayar.
@@ -23,6 +23,11 @@ Nyongo est un outil personnel pour suivre l'argent prêté et emprunté entre pe
 ## Rappels et messages
 - Utilisez les rappels et la discussion avec respect. Le harcèlement, les menaces, les insultes et les contenus trompeurs sont interdits.
 - Nous pouvons suspendre ou supprimer les comptes qui abusent d'autres personnes.
+
+## Cotisations et tontines
+- Nyongo ne collecte, ne garde et ne verse pas l'argent d'un groupe. Les dons et versements se font en espèces ou par mobile money, en dehors de l'application.
+- L'organisateur est responsable de l'argent qu'il reçoit et de ce qu'il confirme. Nyongo garde la trace de ce que les membres déclarent et de ce que l'organisateur confirme, sans le vérifier.
+- Nyongo n'est pas responsable si un membre ou un organisateur ne paie pas, ne remet pas une cagnotte ou quitte le groupe.
 
 ## Désaccords entre utilisateurs
 Nyongo ne règle pas les désaccords entre utilisateurs et n'est pas responsable du remboursement d'une dette. Réglez les désaccords directement avec l'autre personne, ou auprès des autorités compétentes.

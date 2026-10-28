@@ -1,5 +1,5 @@
 # Privacy policy
-Version 2026-10-13. Draft for testing, subject to legal review.
+Version 2026-10-28. Draft for testing, subject to legal review.
 
 ## Who we are
 Nyongo is operated by Gigayar. Contact: support@gigayar.com
@@ -7,6 +7,10 @@ Nyongo is operated by Gigayar. Contact: support@gigayar.com
 ## What we collect
 - Your account: name, email address, phone number (optional) and password. Your password is stored in a form that nobody can read, not even us.
 - What you record: debts, payments, due dates, notes, the contacts you add (a name, and optionally their email or phone number), messages, reminder settings and their history, and requests exchanged with other users.
+- Your gifts: money you note that you gave or received (amount, currency, date, person, occasion, note), and your giving limit if you set one.
+- The cotisations and tontines you organize or join: their settings, their members, what each person says they gave or paid (and how: cash or mobile money), the organizer's confirmations, the rounds and the pots handed over, departures and their reason if you give one, and the messages in their chat.
+- Your reports and the people you block.
+- When you last used the app, which is used for read receipts, for showing you as "online" and to know whether a reminder reached you.
 - Technical data: a notification token for your phone, the language of the app, and basic server logs (such as IP address and time of requests) kept for security.
 
 We do not access your phone's address book or your location, and we never ask for bank or card details.
@@ -21,7 +25,13 @@ We do not sell your data and we do not use it for advertising.
 ## Who can see what
 - Your private records (debts with your contacts) are visible only to you.
 - A shared debt, its payments and its chat are visible to you and to the other person on it.
-- People you add as contacts are not told about it, unless you choose to send them email reminders.
+- People you add as contacts are not told about it, unless you choose to send them email reminders or an invitation (you send it yourself, from your phone).
+- Your gifts are visible only to you. The other person is never told.
+- In a cotisation, members see what the organizer chose: only the total, who gave, or who gave how much. This also applies to a gift you declared that the organizer hasn't confirmed yet. The organizer sees everything. In a tontine, every member sees who paid in each round.
+- A group's chat is visible to its members. Why someone leaves a tontine is seen only by the organizer and that person.
+- People you share a debt, a contact or a group with can see whether you are online or when you last were, unless you turn off "Show when I'm online" in Profile (then you no longer see theirs either).
+- Your payment record is shown to others only if you choose to share it, and only as counts, never amounts or names.
+- When you report someone, your report (and the reported message, if any) is emailed to our support team, who review it.
 
 ## Services we rely on
 - Hetzner: hosts our servers, in the European Union.
@@ -31,7 +41,9 @@ We do not sell your data and we do not use it for advertising.
 Some of these providers may process data outside the European Union, with appropriate safeguards.
 
 ## How long we keep your data
-As long as you have an account. When you delete your account, your account, your private records, your contacts and your messages are deleted. Debts you shared with other people stay in their records as their own private notes, because they are part of their history too.
+As long as you have an account. When you delete your account, your account, your private records, your contacts, your gifts and your messages (including in group chats) are deleted. Debts you shared with other people stay in their records as their own private notes, because they are part of their history too.
+
+In cotisations and tontines, what you gave or paid stays in the group's history, under your name, because it is part of the other members' accounts. A group you organize passes to another member.
 
 ## Your rights
 You can access, correct and delete your data. Most of it can be changed directly in the app, and you can delete your account in Profile, Delete my account. For any other request, write to support@gigayar.com. You can also contact your data protection authority.
