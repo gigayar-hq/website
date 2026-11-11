@@ -1,39 +1,49 @@
 # Conditions d'utilisation
-Version du 28/10/2026. Version provisoire pour les tests, à faire valider juridiquement.
+Version du 07/11/2026. Version provisoire pour les tests, à faire valider juridiquement.
 
-## Ce qu'est Nyongo
-Nyongo est un outil personnel pour suivre l'argent prêté et emprunté entre personnes, et pour envoyer des rappels à ce sujet. Nyongo est exploité par Gigayar.
+## Ce qu'est Yonalar
+Yonalar est un outil personnel pour suivre l'argent prêté et emprunté entre personnes, et pour envoyer des rappels à ce sujet. Yonalar est exploité par Gigayar.
 
-## Ce que Nyongo n'est pas
-- Nyongo ne déplace pas, ne détient pas et ne transfère pas d'argent. Les paiements se font en dehors de l'application.
-- Nyongo n'est ni un prêteur, ni une banque, ni un service de paiement, ni une agence de recouvrement.
-- Nyongo ne vérifie pas ce que les utilisateurs enregistrent. Une dette, un paiement ou un message dans Nyongo est une déclaration faite par un utilisateur, pas une preuve que c'est vrai.
-- Les enregistrements dans Nyongo ne sont pas des documents juridiques.
+## Ce que Yonalar n'est pas
+- Yonalar ne déplace pas, ne détient pas et ne transfère pas d'argent. Les paiements se font en dehors de l'application.
+- Yonalar n'est ni un prêteur, ni une banque, ni un service de paiement, ni une agence de recouvrement.
+- Yonalar ne vérifie pas ce que les utilisateurs enregistrent. Une dette, un paiement ou un message dans Yonalar est une déclaration faite par un utilisateur, pas une preuve que c'est vrai.
+- Les enregistrements dans Yonalar ne sont pas des documents juridiques.
 
 ## Votre compte
-- Vous devez avoir au moins 18 ans pour utiliser Nyongo.
+- Vous devez avoir au moins 18 ans pour utiliser Yonalar.
 - Gardez votre mot de passe secret. Vous êtes responsable de ce qui est fait avec votre compte.
 - Les informations que vous donnez sur vous-même doivent être exactes.
+- Une photo de profil est facultative. Elle doit vous représenter ou rester neutre : pas d'image choquante, ni la photo de quelqu'un d'autre. Une photo signalée peut être retirée.
+- Votre nom d'utilisateur ne doit pas se faire passer pour quelqu'un d'autre ni pour Yonalar. Un nom trompeur signalé peut être changé.
 
 ## Ce que vous enregistrez
 - Vous êtes responsable des dettes, paiements, contacts et messages que vous saisissez.
-- N'enregistrez que des dettes qui existent réellement. Une dette avec un autre utilisateur de Nyongo n'est partagée avec lui que s'il l'accepte.
-- Si quelqu'un refuse une dette, respectez sa réponse. Vous pouvez la garder comme note privée, mais Nyongo ne lui enverra pas de rappels à ce sujet.
+- N'enregistrez que des dettes qui existent réellement. Une dette avec un autre utilisateur de Yonalar n'est partagée avec lui que s'il l'accepte.
+- Si quelqu'un refuse une dette, respectez sa réponse. Vous pouvez la garder comme note privée, mais Yonalar ne lui enverra pas de rappels à ce sujet.
 
 ## Rappels et messages
+- Les rappels ne partent que si vous les activez. C'est vous qui choisissez à qui ils sont envoyés, à quel rythme et par quel moyen (notification, e-mail) ; Yonalar les envoie en votre nom, sans vérifier que la dette est réelle ni que la personne accepte d'être relancée.
+- Vous êtes seul responsable des rappels, demandes, invitations et messages que vous envoyez par Yonalar, et de leurs conséquences, y compris si la personne se plaint de harcèlement, porte plainte ou agit en justice contre vous. Yonalar n'en est pas responsable.
+- N'envoyez de rappels que pour une dette réelle, à la personne qui la doit, à un rythme raisonnable. Arrêtez-les quand la dette est réglée ou si la personne vous le demande. Vous pouvez les mettre en pause ou les arrêter à tout moment.
+- Si une réclamation est faite contre Yonalar à cause de rappels ou de messages que vous avez choisi d'envoyer, vous en assumez les conséquences, dans la mesure permise par la loi.
+- La première fois que vous activez des rappels, vous confirmez dans l'application que vous en acceptez la responsabilité ; nous gardons la date de cet accord.
 - Utilisez les rappels et la discussion avec respect. Le harcèlement, les menaces, les insultes et les contenus trompeurs sont interdits.
 - Nous pouvons suspendre ou supprimer les comptes qui abusent d'autres personnes.
 
 ## Cotisations et tontines
-- Nyongo ne collecte, ne garde et ne verse pas l'argent d'un groupe. Les dons et versements se font en espèces ou par mobile money, en dehors de l'application.
-- L'organisateur est responsable de l'argent qu'il reçoit et de ce qu'il confirme. Nyongo garde la trace de ce que les membres déclarent et de ce que l'organisateur confirme, sans le vérifier.
-- Nyongo n'est pas responsable si un membre ou un organisateur ne paie pas, ne remet pas une cagnotte ou quitte le groupe.
+- Yonalar ne collecte, ne garde et ne verse pas l'argent d'un groupe. Les dons et versements se font en espèces ou par mobile money, en dehors de l'application.
+- L'organisateur est responsable de l'argent qu'il reçoit et de ce qu'il confirme. Yonalar garde la trace de ce que les membres déclarent et de ce que l'organisateur confirme, sans le vérifier.
+- Yonalar n'est pas responsable si un membre ou un organisateur ne paie pas, ne remet pas une cagnotte ou quitte le groupe.
+
+## Assistants IA
+Si vous connectez votre propre assistant IA à votre compte, ses réponses sont produites par cet assistant, pas par Yonalar. Il peut se tromper : vérifiez dans l'application avant de vous y fier. Ce qu'il prépare pour vous (un prêt, une dette, un paiement, un rappel) n'est envoyé ou enregistré que si vous le faites vous-même, et vous en êtes responsable comme de tout ce que vous enregistrez ; un don qu'il note pour vous l'est comme si vous l'aviez noté. Son utilisation relève des conditions de la société qui le fait fonctionner.
 
 ## Désaccords entre utilisateurs
-Nyongo ne règle pas les désaccords entre utilisateurs et n'est pas responsable du remboursement d'une dette. Réglez les désaccords directement avec l'autre personne, ou auprès des autorités compétentes.
+Yonalar ne règle pas les désaccords entre utilisateurs et n'est pas responsable du remboursement d'une dette. Réglez les désaccords directement avec l'autre personne, ou auprès des autorités compétentes.
 
 ## Disponibilité
-Nous faisons de notre mieux pour que Nyongo fonctionne, mais nous ne pouvons pas garantir qu'il sera toujours disponible ou sans erreur. Les fonctionnalités peuvent évoluer.
+Nous faisons de notre mieux pour que Yonalar fonctionne, mais nous ne pouvons pas garantir qu'il sera toujours disponible ou sans erreur. Les fonctionnalités peuvent évoluer.
 
 ## Supprimer votre compte
 Vous pouvez supprimer votre compte à tout moment dans Profil, Supprimer mon compte. La Politique de confidentialité explique ce qu'il advient de vos données.

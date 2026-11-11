@@ -1,39 +1,49 @@
 # Terms of use
-Version 2026-10-28. Draft for testing, subject to legal review.
+Version 2026-11-07. Draft for testing, subject to legal review.
 
-## What Nyongo is
-Nyongo is a personal tool to keep track of money lent and borrowed between people, and to send reminders about it. Nyongo is operated by Gigayar.
+## What Yonalar is
+Yonalar is a personal tool to keep track of money lent and borrowed between people, and to send reminders about it. Yonalar is operated by Gigayar.
 
-## What Nyongo is not
-- Nyongo does not move, hold or transfer money. Payments happen outside the app.
-- Nyongo is not a lender, a bank, a payment service or a debt collection agency.
-- Nyongo does not verify what users record. A debt, payment or message in Nyongo is a statement made by a user, not proof that it is true.
-- Records in Nyongo are not legal documents.
+## What Yonalar is not
+- Yonalar does not move, hold or transfer money. Payments happen outside the app.
+- Yonalar is not a lender, a bank, a payment service or a debt collection agency.
+- Yonalar does not verify what users record. A debt, payment or message in Yonalar is a statement made by a user, not proof that it is true.
+- Records in Yonalar are not legal documents.
 
 ## Your account
-- You must be at least 18 years old to use Nyongo.
+- You must be at least 18 years old to use Yonalar.
 - Keep your password private. You are responsible for what is done with your account.
 - The information you give about yourself must be truthful.
+- A profile photo is optional. It must show you or stay neutral: no offensive image and no one else's photo. A reported photo may be removed.
+- Your username must not pass for someone else or for Yonalar. A misleading username that is reported may be changed.
 
 ## What you record
 - You are responsible for the debts, payments, contacts and messages you enter.
-- Only record debts that really exist. A debt with another Nyongo user is shared with them only if they accept it.
-- If someone declines a debt, respect their answer. You may keep it as a private note, but Nyongo will not send them reminders about it.
+- Only record debts that really exist. A debt with another Yonalar user is shared with them only if they accept it.
+- If someone declines a debt, respect their answer. You may keep it as a private note, but Yonalar will not send them reminders about it.
 
 ## Reminders and messages
+- Reminders only go out if you turn them on. You choose who receives them, how often and how (notification, email); Yonalar sends them on your behalf, without checking that the debt is real or that the person agrees to be reminded.
+- You alone are responsible for the reminders, requests, invitations and messages you send through Yonalar, and for their consequences, including if the person complains of harassment, files a complaint or takes legal action against you. Yonalar is not responsible for them.
+- Only send reminders for a real debt, to the person who owes it, at a reasonable rhythm. Stop them when the debt is settled or if the person asks you to. You can pause or stop them at any time.
+- If a claim is made against Yonalar because of reminders or messages you chose to send, you bear its consequences, to the extent the law allows.
+- The first time you turn on reminders, you confirm in the app that you accept this responsibility; we keep the date of that agreement.
 - Use reminders and chat respectfully. Harassment, threats, insults and misleading content are not allowed.
 - We may suspend or delete accounts that abuse other people.
 
 ## Cotisations and tontines
-- Nyongo does not collect, hold or pay out a group's money. Gifts and payments are made in cash or by mobile money, outside the app.
-- The organizer is responsible for the money they receive and for what they confirm. Nyongo keeps a record of what members declare and what the organizer confirms, without checking it.
-- Nyongo is not responsible if a member or an organizer doesn't pay, doesn't hand over a pot, or leaves the group.
+- Yonalar does not collect, hold or pay out a group's money. Gifts and payments are made in cash or by mobile money, outside the app.
+- The organizer is responsible for the money they receive and for what they confirm. Yonalar keeps a record of what members declare and what the organizer confirms, without checking it.
+- Yonalar is not responsible if a member or an organizer doesn't pay, doesn't hand over a pot, or leaves the group.
+
+## AI assistants
+If you connect your own AI assistant to your account, its answers are produced by that assistant, not by Yonalar. It can be wrong: check in the app before relying on it. What it prepares for you (a loan, a debt, a payment, a reminder) is sent or recorded only if you do it yourself, and you are responsible for it like anything you record; a gift it notes for you counts as noted by you. Using it is governed by the terms of the company that runs it.
 
 ## Disagreements between users
-Nyongo does not settle disagreements between users and is not responsible for whether a debt is repaid. Please resolve disagreements directly with the other person, or through the appropriate authorities.
+Yonalar does not settle disagreements between users and is not responsible for whether a debt is repaid. Please resolve disagreements directly with the other person, or through the appropriate authorities.
 
 ## Availability
-We do our best to keep Nyongo working, but we cannot guarantee that it will always be available or free of errors. Features may change over time.
+We do our best to keep Yonalar working, but we cannot guarantee that it will always be available or free of errors. Features may change over time.
 
 ## Deleting your account
 You can delete your account at any time in Profile, Delete my account. The Privacy policy explains what happens to your data.

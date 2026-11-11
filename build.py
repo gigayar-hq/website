@@ -3,7 +3,7 @@
     python build.py                       # rebuild docs/
     python build.py --sync-legal PATH     # first copy the app's legal texts from PATH, then rebuild
 
-PATH is the Nyongo app's assets/legal folder, e.g. ../nyongo_app/nyongo_manager/assets/legal.
+PATH is the Yonalar app's assets/legal folder (app repo nyongo_manager), e.g. ../nyongo_app/nyongo_manager/assets/legal.
 Standard library only. Every page exists in English (/) and French (/fr/).
 """
 
@@ -66,17 +66,17 @@ T = {
         "support": "Support",
         # home
         "home_title": "Gigayar · Technology for everyday life",
-        "home_desc": "Gigayar builds simple, honest tools for everyday life. Our first product is Nyongo, "
+        "home_desc": "Gigayar builds simple, honest tools for everyday life. Our first product is Yonalar, "
         "a personal tracker for money lent and borrowed.",
         "home_h1": "Technology for everyday life.",
         "home_lead": "Gigayar builds simple, honest tools for the situations people find awkward, stressful or "
         "hard to manage, starting with money between friends and family.",
-        "home_cta": "Discover Nyongo",
+        "home_cta": "Discover Yonalar",
         "home_cta2": "Contact us",
         "products_eyebrow": "Products",
         "products_title": "What we are building",
         "nyongo_tag": "First product · Android, coming soon",
-        "nyongo_card": "Keep track of money you lend and borrow. Nyongo sends the reminders for you, "
+        "nyongo_card": "Keep track of money you lend and borrow. Yonalar sends the reminders for you, "
         "so you don't have to ask.",
         "learn_more": "Learn more →",
         "soon_tag": "Coming next",
@@ -93,51 +93,51 @@ T = {
         "contact_title": "Get in touch",
         "contact_text": "Questions, feedback or ideas? Write to us.",
         # nyongo
-        "n_title": "Nyongo · Track money lent and borrowed",
-        "n_desc": "Record who owes you and who you owe. Nyongo reminds the other person for you. "
+        "n_title": "Yonalar · Track money lent and borrowed",
+        "n_desc": "Record who owes you and who you owe. Yonalar reminds the other person for you. "
         "No money moves through the app.",
         "n_by": "by Gigayar",
         "n_slogan": "Don't let them borrow on their terms.",
-        "n_lead": "Record who owes you and who you owe. Nyongo reminds the other person for you, "
+        "n_lead": "Record who owes you and who you owe. Yonalar reminds the other person for you, "
         "so you never have to start the awkward conversation.",
         "n_status": "Coming soon on Google Play",
         "n_beta": "Test it early",
-        "n_beta_subject": "Nyongo beta",
+        "n_beta_subject": "Yonalar beta",
         "n_features_eyebrow": "Features",
         "n_features_title": "Everything you need, nothing awkward",
         "f": [
             ("users", "Everyone in one place",
              "One list of the people you deal with, and the balance between you at a glance."),
             ("bell", "Reminders sent for you",
-             "Choose how often. Nyongo reminds the other person by notification or email, so you don't have to."),
+             "Choose how often. Yonalar reminds the other person by notification or email, so you don't have to."),
             ("shield", "Shared and confirmed",
-             "If they use Nyongo too, they confirm the debt and every payment. No more “I already paid you”."),
+             "If they use Yonalar too, they confirm the debt and every payment. No more “I already paid you”."),
             ("chat", "Talk it through",
              "A chat with each person, right next to your shared history: extensions, changes, payments."),
             ("gauge", "Stay within your limits",
              "Set a monthly limit for lending and borrowing, and see where you stand."),
             ("globe", "English and French",
-             "Nyongo speaks your language, with dates and amounts in your local format."),
+             "Yonalar speaks your language, with dates and amounts in your local format."),
         ],
-        "n_money_title": "No money moves through Nyongo",
-        "n_money": "Nyongo is a tool for keeping records and sending reminders. It never holds, sends or receives "
+        "n_money_title": "No money moves through Yonalar",
+        "n_money": "Yonalar is a tool for keeping records and sending reminders. It never holds, sends or receives "
         "money, and never asks for bank or card details. You pay each other however you like, outside the app.",
         "n_how_eyebrow": "How it works",
         "n_how_title": "Three steps",
         "s": [
             ("Record a debt", "The amount, the person, the due date. It takes a few seconds."),
             ("Share it or keep it private",
-             "Send it to their Nyongo account to confirm, or keep it as your own note."),
-            ("Let Nyongo remind them", "On the schedule you choose, until it's settled."),
+             "Send it to their Yonalar account to confirm, or keep it as your own note."),
+            ("Let Yonalar remind them", "On the schedule you choose, until it's settled."),
         ],
         "n_more_title": "Help and legal",
         # delete account
-        "d_title": "Delete your Nyongo account",
-        "d_desc": "How to delete your Nyongo account and what happens to your data.",
-        "d_intro": "Nyongo is made by Gigayar. You can delete your account and your data at any time.",
+        "d_title": "Delete your Yonalar account",
+        "d_desc": "How to delete your Yonalar account and what happens to your data.",
+        "d_intro": "Yonalar is made by Gigayar. You can delete your account and your data at any time.",
         "d_app_h": "In the app",
         "d_app": [
-            "Open Nyongo and sign in.",
+            "Open Yonalar and sign in.",
             "Go to <strong>Profile</strong>.",
             "Tap <strong>Delete my account</strong>.",
             "Enter your password, then tap <strong>Delete permanently</strong>.",
@@ -158,23 +158,23 @@ T = {
         "d_kept": "Debts you shared with other people, and that they accepted, stay in their records as their own "
         "private notes, because they are part of their history too. They keep your name as it appeared on the "
         "debt, are no longer linked to any account, and no reminders are sent about them.",
-        "d_more": "Read the <a href=\"{privacy}\">Privacy policy</a> for more about how Nyongo handles your data.",
+        "d_more": "Read the <a href=\"{privacy}\">Privacy policy</a> for more about how Yonalar handles your data.",
         # Invitation landing page
-        "i_title": "You're invited to Nyongo",
-        "i_desc": "Someone you know uses Nyongo to keep track of the money you lend each other.",
-        "i_intro": "Someone you know uses Nyongo to keep track of the money you lend each other, and invited you. "
-        "Nyongo doesn't move any money: it only keeps a shared record you both confirm.",
+        "i_title": "You're invited to Yonalar",
+        "i_desc": "Someone you know uses Yonalar to keep track of the money you lend each other.",
+        "i_intro": "Someone you know uses Yonalar to keep track of the money you lend each other, and invited you. "
+        "Yonalar doesn't move any money: it only keeps a shared record you both confirm.",
         "i_code": "Your invitation code",
         "i_steps_h": "How to join",
         "i_steps": [
-            "Install Nyongo on your phone.",
+            "Install Yonalar on your phone.",
             "Create your account.",
             "Open <strong>Profile → Invitation code</strong> and enter the code above.",
         ],
         "i_after": "Your accounts are then linked. What they recorded reaches you as requests: you accept them, "
         "propose a change, or decline. Nothing is added to your account without your agreement.",
-        "i_store": "Nyongo is coming soon to Google Play.",
-        "i_more": "Learn more about Nyongo",
+        "i_store": "Yonalar is coming soon to Google Play.",
+        "i_more": "Learn more about Yonalar",
         # 404
         "nf_title": "Page not found",
         "nf_text": "This page doesn't exist or has moved.",
@@ -193,16 +193,16 @@ T = {
         # home
         "home_title": "Gigayar · La technologie au service du quotidien",
         "home_desc": "Gigayar conçoit des outils simples et honnêtes pour le quotidien. Notre premier produit est "
-        "Nyongo, un suivi personnel de l'argent prêté et emprunté.",
+        "Yonalar, un suivi personnel de l'argent prêté et emprunté.",
         "home_h1": "La technologie au service du quotidien.",
         "home_lead": "Gigayar conçoit des outils simples et honnêtes pour les situations que l'on trouve gênantes, "
         "stressantes ou difficiles à gérer, à commencer par l'argent entre amis et en famille.",
-        "home_cta": "Découvrir Nyongo",
+        "home_cta": "Découvrir Yonalar",
         "home_cta2": "Nous écrire",
         "products_eyebrow": "Produits",
         "products_title": "Ce que nous construisons",
         "nyongo_tag": "Premier produit · Android, bientôt disponible",
-        "nyongo_card": "Suivez l'argent que vous prêtez et empruntez. Nyongo envoie les rappels à votre place, "
+        "nyongo_card": "Suivez l'argent que vous prêtez et empruntez. Yonalar envoie les rappels à votre place, "
         "pour que vous n'ayez pas à demander.",
         "learn_more": "En savoir plus →",
         "soon_tag": "Prochainement",
@@ -220,26 +220,26 @@ T = {
         "contact_title": "Nous contacter",
         "contact_text": "Une question, un avis, une idée&nbsp;? Écrivez-nous.",
         # nyongo
-        "n_title": "Nyongo · Suivez l'argent prêté et emprunté",
-        "n_desc": "Notez qui vous doit et à qui vous devez. Nyongo relance l'autre personne pour vous. "
+        "n_title": "Yonalar · Suivez l'argent prêté et emprunté",
+        "n_desc": "Notez qui vous doit et à qui vous devez. Yonalar relance l'autre personne pour vous. "
         "Aucun argent ne passe par l'application.",
         "n_by": "par Gigayar",
         "n_slogan": "Ne les laissez pas emprunter à leurs conditions.",
-        "n_lead": "Notez qui vous doit de l'argent et à qui vous en devez. Nyongo relance l'autre personne pour vous, "
+        "n_lead": "Notez qui vous doit de l'argent et à qui vous en devez. Yonalar relance l'autre personne pour vous, "
         "pour vous éviter la conversation gênante.",
         "n_status": "Bientôt sur Google Play",
         "n_beta": "Le tester en avant-première",
-        "n_beta_subject": "Bêta Nyongo",
+        "n_beta_subject": "Bêta Yonalar",
         "n_features_eyebrow": "Fonctionnalités",
         "n_features_title": "Tout ce qu'il faut, sans la gêne",
         "f": [
             ("users", "Tout le monde au même endroit",
              "Une liste des personnes avec qui vous êtes en compte, et le solde entre vous en un coup d'œil."),
             ("bell", "Des rappels envoyés pour vous",
-             "Choisissez la fréquence. Nyongo relance l'autre personne par notification ou par e-mail, "
+             "Choisissez la fréquence. Yonalar relance l'autre personne par notification ou par e-mail, "
              "pour que vous n'ayez pas à le faire."),
             ("shield", "Partagé et confirmé",
-             "Si l'autre personne utilise aussi Nyongo, elle confirme la dette et chaque paiement. "
+             "Si l'autre personne utilise aussi Yonalar, elle confirme la dette et chaque paiement. "
              "Fini les «&nbsp;je t'ai déjà remboursé&nbsp;»."),
             ("chat", "En parler",
              "Une discussion avec chaque personne, juste à côté de votre historique commun&nbsp;: délais, "
@@ -247,10 +247,10 @@ T = {
             ("gauge", "Rester dans vos limites",
              "Fixez une limite mensuelle pour vos prêts et vos emprunts, et voyez où vous en êtes."),
             ("globe", "En français et en anglais",
-             "Nyongo parle votre langue, avec les dates et les montants au format local."),
+             "Yonalar parle votre langue, avec les dates et les montants au format local."),
         ],
-        "n_money_title": "Aucun argent ne passe par Nyongo",
-        "n_money": "Nyongo sert à garder une trace et à envoyer des rappels. L'application ne détient, n'envoie ni ne "
+        "n_money_title": "Aucun argent ne passe par Yonalar",
+        "n_money": "Yonalar sert à garder une trace et à envoyer des rappels. L'application ne détient, n'envoie ni ne "
         "reçoit jamais d'argent, et ne demande jamais de coordonnées bancaires. Vous vous payez comme vous le "
         "souhaitez, en dehors de l'application.",
         "n_how_eyebrow": "Comment ça marche",
@@ -258,17 +258,17 @@ T = {
         "s": [
             ("Notez une dette", "Le montant, la personne, la date d'échéance. Quelques secondes suffisent."),
             ("Partagez-la ou gardez-la pour vous",
-             "Envoyez-la sur son compte Nyongo pour qu'elle la confirme, ou gardez-la comme note personnelle."),
-            ("Laissez Nyongo relancer", "Au rythme que vous choisissez, jusqu'à ce que ce soit réglé."),
+             "Envoyez-la sur son compte Yonalar pour qu'elle la confirme, ou gardez-la comme note personnelle."),
+            ("Laissez Yonalar relancer", "Au rythme que vous choisissez, jusqu'à ce que ce soit réglé."),
         ],
         "n_more_title": "Aide et informations légales",
         # delete account
-        "d_title": "Supprimer votre compte Nyongo",
-        "d_desc": "Comment supprimer votre compte Nyongo et ce qu'il advient de vos données.",
-        "d_intro": "Nyongo est développé par Gigayar. Vous pouvez supprimer votre compte et vos données à tout moment.",
+        "d_title": "Supprimer votre compte Yonalar",
+        "d_desc": "Comment supprimer votre compte Yonalar et ce qu'il advient de vos données.",
+        "d_intro": "Yonalar est développé par Gigayar. Vous pouvez supprimer votre compte et vos données à tout moment.",
         "d_app_h": "Dans l'application",
         "d_app": [
-            "Ouvrez Nyongo et connectez-vous.",
+            "Ouvrez Yonalar et connectez-vous.",
             "Allez dans <strong>Profil</strong>.",
             "Appuyez sur <strong>Supprimer mon compte</strong>.",
             "Saisissez votre mot de passe, puis appuyez sur <strong>Supprimer définitivement</strong>.",
@@ -292,23 +292,23 @@ T = {
         "nom tel qu'il figurait sur la dette, ne sont plus liées à aucun compte, et aucun rappel n'est envoyé à "
         "leur sujet.",
         "d_more": "Consultez la <a href=\"{privacy}\">Politique de confidentialité</a> pour en savoir plus sur la "
-        "façon dont Nyongo traite vos données.",
+        "façon dont Yonalar traite vos données.",
         # Page d'arrivée d'une invitation
-        "i_title": "Vous êtes invité(e) sur Nyongo",
-        "i_desc": "Quelqu'un que vous connaissez utilise Nyongo pour suivre l'argent que vous vous prêtez.",
-        "i_intro": "Quelqu'un que vous connaissez utilise Nyongo pour suivre l'argent que vous vous prêtez, et vous "
-        "a invité(e). Nyongo ne transfère pas d'argent : il garde seulement une trace commune que vous confirmez tous les deux.",
+        "i_title": "Vous êtes invité(e) sur Yonalar",
+        "i_desc": "Quelqu'un que vous connaissez utilise Yonalar pour suivre l'argent que vous vous prêtez.",
+        "i_intro": "Quelqu'un que vous connaissez utilise Yonalar pour suivre l'argent que vous vous prêtez, et vous "
+        "a invité(e). Yonalar ne transfère pas d'argent : il garde seulement une trace commune que vous confirmez tous les deux.",
         "i_code": "Votre code d'invitation",
         "i_steps_h": "Comment rejoindre",
         "i_steps": [
-            "Installez Nyongo sur votre téléphone.",
+            "Installez Yonalar sur votre téléphone.",
             "Créez votre compte.",
             "Ouvrez <strong>Profil → Code d'invitation</strong> et entrez le code ci-dessus.",
         ],
         "i_after": "Vos comptes sont alors reliés. Ce que cette personne a noté vous arrive sous forme de demandes : "
         "vous les acceptez, proposez une modification ou les refusez. Rien n'est ajouté à votre compte sans votre accord.",
-        "i_store": "Nyongo arrive bientôt sur Google Play.",
-        "i_more": "En savoir plus sur Nyongo",
+        "i_store": "Yonalar arrive bientôt sur Google Play.",
+        "i_more": "En savoir plus sur Yonalar",
         # 404
         "nf_title": "Page introuvable",
         "nf_text": "Cette page n'existe pas ou a été déplacée.",
@@ -346,7 +346,7 @@ class Ctx:
         return self.root + "assets/" + name
 
 
-def layout(ctx, title, desc, body, current=""):
+def layout(ctx, title, desc, body, current="", theme=""):
     t = T[ctx.lang]
     other = "fr" if ctx.lang == "en" else "en"
     alternates = "".join(
@@ -375,13 +375,13 @@ def layout(ctx, title, desc, body, current=""):
 <link rel="preload" href="{ctx.asset("inter-latin.woff2")}" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="{ctx.asset("style.css")}">
 </head>
-<body>
+<body{f' class="{theme}"' if theme else ""}>
 <a class="skip" href="#main">{t["skip"]}</a>
 <header class="site-header">
   <div class="wrap">
     <a class="brand" href="{ctx.link("")}">gigayar<span>.</span></a>
     <nav class="site-nav" aria-label="Main">
-      {nav_link(ctx.link("nyongo"), "Nyongo", "nyongo")}
+      {nav_link(ctx.link("nyongo"), "Yonalar", "nyongo")}
       {nav_link(ctx.link("") + "#contact", t["nav_contact"], "contact")}
       <a class="lang" href="{ctx.link(ctx.path, other)}" hreflang="{other}" lang="{other}"
          aria-label="{t["lang_switch_label"]}">{t["lang_switch"]}</a>
@@ -395,7 +395,7 @@ def layout(ctx, title, desc, body, current=""):
   <div class="wrap">
     <div>© {date.today().year} Gigayar · {t["footer_tag"]}</div>
     <nav aria-label="Footer">
-      <a href="{ctx.link("nyongo")}">Nyongo</a>
+      <a href="{ctx.link("nyongo")}">Yonalar</a>
       <a href="{ctx.link("nyongo/privacy")}">{t["privacy"]}</a>
       <a href="{ctx.link("nyongo/terms")}">{t["terms"]}</a>
       <a href="mailto:{SUPPORT}">{SUPPORT}</a>
@@ -430,7 +430,7 @@ def home(ctx):
     <div class="grid-2">
       <a class="product product-nyongo" href="{ctx.link("nyongo")}">
         <span class="tag">{t["nyongo_tag"]}</span>
-        <h3>Nyongo</h3>
+        <h3>Yonalar</h3>
         <p>{t["nyongo_card"]}</p>
         <span class="more">{t["learn_more"]}</span>
       </a>
@@ -477,7 +477,7 @@ def nyongo(ctx):
 <section class="n-hero">
   <div class="wrap">
     <span class="by">{t["n_by"]}</span>
-    <h1>Nyongo</h1>
+    <h1>Yonalar</h1>
     <p class="slogan">{t["n_slogan"]}</p>
     <p class="lead">{t["n_lead"]}</p>
     <span class="pill">{t["n_status"]}</span>
@@ -528,11 +528,11 @@ def nyongo(ctx):
   </div>
 </section>
 """
-    return layout(ctx, t["n_title"], t["n_desc"], body, current="nyongo")
+    return layout(ctx, t["n_title"], t["n_desc"], body, current="nyongo", theme="yonalar")
 
 
 def crumb(ctx):
-    return f'<p class="crumb"><a href="{ctx.link("nyongo")}">← Nyongo</a></p>'
+    return f'<p class="crumb"><a href="{ctx.link("nyongo")}">← Yonalar</a></p>'
 
 
 def linkify(text):
@@ -578,7 +578,7 @@ def legal(ctx, name):
     text = (LEGAL / f"{name}_{ctx.lang}.txt").read_text(encoding="utf-8")
     title, content = legal_to_html(text)
     body = f'<article class="doc">{crumb(ctx)}\n{content}\n</article>'
-    return layout(ctx, f"{title} · Nyongo", t[name] + " · Nyongo", body)
+    return layout(ctx, f"{title} · Yonalar", t[name] + " · Yonalar", body, theme="yonalar")
 
 
 def delete_account(ctx):
@@ -598,7 +598,7 @@ def delete_account(ctx):
 <p>{t["d_kept"]}</p>
 <p class="note">{t["d_more"].format(privacy=ctx.link("nyongo/privacy"))}</p>
 </article>"""
-    return layout(ctx, t["d_title"], t["d_desc"], body)
+    return layout(ctx, t["d_title"], t["d_desc"], body, theme="yonalar")
 
 
 def invite(ctx):
@@ -626,7 +626,7 @@ def invite(ctx):
   document.getElementById("invite-code-box").hidden = false;
 }})();
 </script>"""
-    return layout(ctx, t["i_title"], t["i_desc"], body)
+    return layout(ctx, t["i_title"], t["i_desc"], body, theme="yonalar")
 
 
 def not_found():
